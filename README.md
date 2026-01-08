@@ -7,7 +7,7 @@ Sunt un developer pasionat de intersecția dintre software-ul modern și hardwar
 
 ### 🛠️ Cu ce mă ocup:
 - 🌐 **Web Development:** Creez proiecte digitale rapide și optimizate SEO (PHP, JS, Flask).
-- 🏢 **Infrastructure & 5D Planning:** Proiectez setup-uri profesionale pentru servere și camere de gaming, folosind planificare 5D pentru optimizare maximă.
+- 🏢 **Infrastructure & 5D Planning:** Proiectez setup-uri profesionale pentru servere și camere de gaming, folosind 5D Planning pentru optimizare maximă.
 - 🤖 **AI & Automation:** Integrez modele avansate precum Gemini pentru soluții inteligente.
 - 🎮 **Game Systems:** Dezvolt extensii C++ și sisteme pentru comunități de gaming (AmxModX, SourceMod, etc).
 
