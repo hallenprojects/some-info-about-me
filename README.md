@@ -1,17 +1,17 @@
 # Salut, sunt Adi Ganea (hallen.ro) 👋
 
 ### 🚀 Transform ideile complexe în soluții digitale premium
-Sunt un dezvoltator pasionat de intersecția dintre software-ul modern și hardware-ul performant. De la panouri web dinamice și boți cu inteligență artificială, până la **5D planning pentru gaming rooms** și arhitectură de servere, abordez fiecare proiect cu precizie și viziune creativă.
+Sunt un developer pasionat de intersecția dintre software-ul modern și hardware-ul performant. De la pannel-uri web dinamice și agenti cu inteligență artificială, până la **5D planning pentru gaming rooms** și arhitectură de servere, abordez fiecare proiect cu precizie și viziune creativă.
 
 ---
 
 ### 🛠️ Cu ce mă ocup:
-- 🌐 **Web Development:** Creez experiențe digitale rapide și optimizate SEO (PHP, JS, Flask).
-- 🏢 **Infrastructure & 5D Planning:** Proiectez setup-uri profesionale pentru servere și săli de gaming, folosind planificare 5D pentru optimizare maximă.
+- 🌐 **Web Development:** Creez proiecte digitale rapide și optimizate SEO (PHP, JS, Flask).
+- 🏢 **Infrastructure & 5D Planning:** Proiectez setup-uri profesionale pentru servere și camere de gaming, folosind planificare 5D pentru optimizare maximă.
 - 🤖 **AI & Automation:** Integrez modele avansate precum Gemini pentru soluții inteligente.
-- 🎮 **Game Systems:** Dezvolt extensii C++ și sisteme pentru comunități de gaming (AmxModX).
+- 🎮 **Game Systems:** Dezvolt extensii C++ și sisteme pentru comunități de gaming (AmxModX, SourceMod, etc).
 
-### 🧪 Tehnologiile mele preferate:
+### 🧪 Tehnologii preferate:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
