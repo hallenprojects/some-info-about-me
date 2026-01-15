@@ -33,7 +33,7 @@ Sunt un developer pasionat de intersecția dintre software-ul modern și hardwar
 Dacă ai un proiect care necesită atât viziune software, cât și expertiză tehnică în infrastructură, sunt aici să te ajut.
 
 - 🌍 Portofoliu: [hallen.ro](https://hallenprojects.github.io/hallen/)
-- 📧 Email: [ganeaadi4@gmail.com](mailto:ganeaadi4@gmail.com)
+- 📧 Email: [contact@hallen.ro(mailto:contact@hallen.ro)
 - 📍 Locație: Craiova, România
 
 ---
