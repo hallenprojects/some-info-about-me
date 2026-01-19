@@ -1,7 +1,7 @@
 # Salut, sunt Adi Ganea (hallen.ro) 👋
 
 ### 🚀 Transform ideile complexe în soluții digitale premium
-Sunt un developer pasionat de intersecția dintre software-ul modern și hardware-ul performant. De la pannel-uri web dinamice și agenti cu inteligență artificială, până la **5D planning pentru gaming rooms** și arhitectură de servere, abordez fiecare proiect cu precizie și viziune creativă.
+Sunt un developer pasionat de intersecția dintre software-ul modern și hardware-ul performant. De la pannel-uri web dinamice, până la **5D planning pentru gaming rooms** și arhitectură de servere, abordez fiecare proiect cu precizie și viziune creativă.
 
 ---
 
